@@ -1,7 +1,7 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-###### https://alokm014.github.io/
+###### https://srinivasa.v.github.io/
 
 ------------------------------------------------------------------
 To setup the project on your local machine:
